@@ -1,0 +1,13 @@
+@import "fonts";
+
+body {
+    // background-color: aquamarine;
+    width: 1920px;
+    background: url("@img/i.jpg") 0 0 no-repeat;
+    span {
+        color:firebrick;
+        font-family: keetano;
+        font-size: 50px
+    }
+    // background: url("@img/i.jpg") 0 0 no-repeat;
+}
